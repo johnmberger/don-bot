@@ -7,3 +7,5 @@ Simple breakdown of how this works:
 - Smash them all into a large text string
 - Remove url links
 - Using [Markovify](https://github.com/jsvine/markovify), build Markov models of DJT's tweets, and generate random tweets from that
+
+This code could be adapted to imitate any other twitter user by changing the argument in the `go_twitbot_go` function declaration
